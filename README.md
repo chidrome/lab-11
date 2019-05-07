@@ -1,3 +1,5 @@
+#Lab 11 Counter App
+
 Number and name of feature: Add and subtract from counter
 
 Estimate of time needed to complete: 1 hour
