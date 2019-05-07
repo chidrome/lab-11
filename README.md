@@ -1,4 +1,4 @@
-#Lab 11 Counter App
+# Lab 11 Counter App
 
 Number and name of feature: Add and subtract from counter
 
